@@ -1,40 +1,54 @@
 <h1 align="center">Hi, I'm Amar Cheema</h1>
-<h3 align="center">Front-End Developer | Building Fast, Responsive Web Experiences</h3>
+<h3 align="center">Red Team Expert | Offensive Security Specialist | Data Scientist</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" />
+  <img src="https://camo.githubusercontent.com/0ba9d51a906033ad14419e0494f0403bc8277b9dfca249c4935ca27b53ff319d/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/>
 </p>
 
 ---
 
 ### About Me
 
-I'm a front-end developer from Pakistan specializing in creating performant, user-friendly interfaces. I focus on clean code and thoughtful design to build web experiences that are both beautiful and functional.
+I’m **AMAR CHEEMA**, a seasoned **Red Team Expert** and **Data Scientist** with a deep passion for offensive security, adversary simulation, and crafting data-driven solutions. With a hands-on approach to **penetration testing**, **ethical hacking**, and **machine learning**, I specialize in **breaking systems** to build stronger defenses and **developing intelligent models** that solve complex business challenges.
+
+As a **contributor to open-source security tools**, I believe in giving back to the community by building, refining, and maintaining high-quality software solutions that everyone can benefit from.
+
+---
+
+### What I Do
+
+- **Red Team Operations**: Conducting realistic attack simulations to test the resilience of corporate infrastructures.
+- **Penetration Testing**: Exploiting vulnerabilities in systems and networks to help organizations understand their security gaps.
+- **Machine Learning & Data Science**: Building custom machine learning algorithms for predictive modeling, automation, and data insights.
+- **Security Research**: Identifying new attack techniques, vulnerabilities, and sharing my findings with the community.
+- **Open-Source Contributions**: Developing and improving tools that assist cybersecurity professionals and data scientists in their work.
 
 ---
 
 ### Recent Projects
 
-- **Portfolio Website** – React and Tailwind CSS with performance optimizations
-- **E-commerce Landing Page** – Focused on conversion rates and smooth animations
-- **Markdown Blog** – Customizable themes with search functionality
+- **Red Team Engagements** – Simulated real-world attacks to assess vulnerabilities in enterprise networks.
+- **AI-based Threat Detection Model** – Developed machine learning models to detect anomalies and potential cybersecurity threats.
+- **Automated Security Audits** – Built scripts and tools for automated vulnerability scanning and penetration testing.
+- **Cybersecurity Blog** – Writing about the latest in cybersecurity, offensive techniques, and defense strategies.
 
-View more on [my GitHub profile](https://github.com/AmarCheema).
+View more on my [GitHub profile](https://github.com/AmarCheema).
 
 ---
 
 ### Get In Touch
 
-- Email: amarcheema574@gmail.com  
-- Twitter: [@butwhyamar](https://twitter.com/butwhyamar)
-- LinkedIn: [Amar Cheema](https://www.linkedin.com/in/amar-cheema-1b1b3b1b3/)
+- **Email**: amarcheema574@gmail.com  
+- **Twitter**: [@butwhyamar](https://twitter.com/butwhyamar)  
+- **LinkedIn**: [Amar Cheema](https://www.linkedin.com/in/amar-cheema-1b1b3b1b3/)  
+- **BlueSky**: [amarcheema.bsky.social](https://bsky.app/profile/amarcheema.bsky.social)  
 
 ---
 
-### Technologies
+### Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,git,figma" alt="Technologies I use" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,powershell,js,html,css,git" alt="Technologies I use" />
 </p>
 
 ---
@@ -42,9 +56,18 @@ View more on [my GitHub profile](https://github.com/AmarCheema).
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmarCheema&show_icons=true&theme=default&hide_border=true&count_private=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarCheema&layout=compact&theme=default&hide_border=true" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmarCheema&show_icons=true&theme=dark&hide_border=true&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarCheema&layout=compact&theme=dark&hide_border=true" width="350" />
 </p>
+
+---
+
+### 🔥 Open-Source Contributions
+
+I actively contribute to the community by sharing tools, scripts, and knowledge. Check out my latest open-source repositories
+
+
+
 
 
 
