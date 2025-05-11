@@ -1,70 +1,31 @@
-<h1 align="center">Hi, I'm Amar Cheema</h1>
-<h3 align="center">Red Team Expert | Offensive Security Specialist | Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Amar Cheema</h1>
+<h3 align="center">From Hello World to Real-World Websites</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0ba9d51a906033ad14419e0494f0403bc8277b9dfca249c4935ca27b53ff319d/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/>
+  <img src="https://media0.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif" alt="GIF" width="300" />
 </p>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarcheema&label=Profile%20views&color=0e75b6&style=flat" alt="amarcheema" /> </p>
 
-### About Me
+- 👨‍💻 All of my projects are available at [https://github.com/AmarCheema](https://github.com/AmarCheema)
 
-I’m **AMAR CHEEMA**, a seasoned **Red Team Expert** and **Data Scientist** with a deep passion for offensive security, adversary simulation, and crafting data-driven solutions. With a hands-on approach to **penetration testing**, **ethical hacking**, and **machine learning**, I specialize in **breaking systems** to build stronger defenses and **developing intelligent models** that solve complex business challenges.
+- 📫 How to reach me **instagram.com/butwhy_amar/**
 
-As a **contributor to open-source security tools**, I believe in giving back to the community by building, refining, and maintaining high-quality software solutions that everyone can benefit from.
-
----
-
-### What I Do
-
-- **Red Team Operations**: Conducting realistic attack simulations to test the resilience of corporate infrastructures.
-- **Penetration Testing**: Exploiting vulnerabilities in systems and networks to help organizations understand their security gaps.
-- **Machine Learning & Data Science**: Building custom machine learning algorithms for predictive modeling, automation, and data insights.
-- **Security Research**: Identifying new attack techniques, vulnerabilities, and sharing my findings with the community.
-- **Open-Source Contributions**: Developing and improving tools that assist cybersecurity professionals and data scientists in their work.
-
----
-
-### Recent Projects
-
-- **Red Team Engagements** – Simulated real-world attacks to assess vulnerabilities in enterprise networks.
-- **AI-based Threat Detection Model** – Developed machine learning models to detect anomalies and potential cybersecurity threats.
-- **Automated Security Audits** – Built scripts and tools for automated vulnerability scanning and penetration testing.
-- **Cybersecurity Blog** – Writing about the latest in cybersecurity, offensive techniques, and defense strategies.
-
-View more on my [GitHub profile](https://github.com/AmarCheema).
-
----
-
-### Get In Touch
-
-- **Email**: amarcheema574@gmail.com  
-- **Twitter**: [@butwhyamar](https://twitter.com/butwhyamar)  
-- **LinkedIn**: [Amar Cheema](https://www.linkedin.com/in/amar-cheema-1b1b3b1b3/)  
-- **BlueSky**: [amarcheema.bsky.social](https://bsky.app/profile/amarcheema.bsky.social)  
-
----
-
-### Technologies I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,powershell,js,html,css,git" alt="Technologies I use" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/butwhy_amar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="butwhy_amar" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### GitHub Activity
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarcheema&show_icons=true&locale=en&layout=compact" alt="amarcheema" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmarCheema&show_icons=true&theme=dark&hide_border=true&count_private=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarCheema&layout=compact&theme=dark&hide_border=true" width="350" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarcheema&show_icons=true&locale=en" alt="amarcheema" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarcheema&" alt="amarcheema" /></p>
 
-### 🔥 Open-Source Contributions
 
-I actively contribute to the community by sharing tools, scripts, and knowledge. Check out my latest open-source repositories
 
 
 
